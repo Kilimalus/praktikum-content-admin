@@ -25,12 +25,6 @@
 Также с командой участвовал в Microsoft хакатоне "[AI for Good](https://www.microsoft.com/en-us/ai/ai-for-good)", где наша команда заняла 1 место.
 
 
-#### Ссылки:
-
-<https://ikt.muctr.ru/novosti/155-praktika-studentov-kafedry-v-kompanii-microsoft.>
-
-<https://news.microsoft.com/ru-ru/microsoft-ai-for-good-hackathon/>
-
 #### Важно:
 Также хочется отметить, что я настроен на работу в долгосрочной перспективе. Буду рад оказаться в вашей команде.
 
@@ -41,3 +35,8 @@
 2. Телефон: +79639638750
 3. Telegram ID: @kilimalu
 
+#### Ссылки:
+
+<https://ikt.muctr.ru/novosti/155-praktika-studentov-kafedry-v-kompanii-microsoft.>
+
+<https://news.microsoft.com/ru-ru/microsoft-ai-for-good-hackathon/>
