@@ -27,6 +27,7 @@
 ### Ссылки:
 
 <https://ikt.muctr.ru/novosti/155-praktika-studentov-kafedry-v-kompanii-microsoft.>
+
 <https://news.microsoft.com/ru-ru/microsoft-ai-for-good-hackathon/>
 
 ### Важно:
