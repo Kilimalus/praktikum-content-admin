@@ -3,7 +3,6 @@ import random
 import time
 import string
 
-spisok = ''
 kali = ''
 
 # Рандомится 5 буквенный пароль, который нужно угадать
